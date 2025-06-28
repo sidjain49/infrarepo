@@ -1,0 +1,3 @@
+variable "rggroup"{
+ type = string
+}
